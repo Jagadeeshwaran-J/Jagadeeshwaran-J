@@ -1,52 +1,104 @@
-# 👋 Hi, I'm Jagadeeshwaran J
-**AI & Data Scientist | Computer Vision & LLM Specialist | Banking Sector**  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Jagadeeshwaran%20J&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-💼 Currently working at **NCS SoftSolutions (P) Ltd., Chennai**  
-🚀 Experienced in building **end-to-end AI solutions** — from **computer vision pipelines** (YOLO, RT-DETR) to **LLM-powered applications** (RAG, Ollama, OpenAI, Google APIs).  
-🎯 Passionate about leveraging **AI for automation, risk analysis, and decision-making** in the **banking domain**.  
+<h3 align="center">
+AI Engineer • Computer Vision • LLM Systems • Banking Automation
+</h3>
 
----
-
-## 🧠 Core Expertise
-- **Computer Vision**
-  - 🖼️ Image detection & recognition using **YOLO, RT-DETR, ONNX Runtime**
-  - ⚡ Model optimization with **ONNX, OpenVINO, multiprocessing**
-  - 📷 Domain projects: **Gold bar detection, signature verification, stamp detection**
-
-- **Large Language Models (LLMs)**
-  - 🤖 Worked with **OpenAI GPT, Google Gemini, Ollama**
-  - 📚 Built **RAG pipelines** with FAISS, LangChain, and vector embeddings
-  - 📝 Document Q&A systems using **PDF OCR + LLM integration**
-
-- **Software Engineering**
-  - 🛠 Designed production-ready apps with **FastAPI, Flask, Streamlit**
-  - 🗂 Structured & validated APIs with **Pydantic**
-  - 🐳 Containerization & deployment using **Docker**
+<p align="center">
+Building production-grade AI systems.
+</p>
 
 ---
 
-## 🏆 Achievements
-- 🐙 **Pull Shark** – Recognized GitHub contributor  
-- ⚡ **Quickdraw** – Known for rapid prototyping & problem-solving  
-- 🎖️ Delivered multiple **AI-driven automation systems** in the banking sector  
+## 🚀 About Me
+
+💼 AI Engineer in Banking & Automation  
+🧠 Specialist in **Computer Vision + LLM pipelines + AI APIs**  
+📈 Focused on scalable, secure, optimized AI systems  
+
+I design **end-to-end AI platforms** — from OCR & detection models to real-time APIs and enterprise deployment.
 
 ---
 
-## ⚒️ Tech Stack
-- **Languages**: Python, Java, SQL  
-- **AI/ML Frameworks**: YOLO, RT-DETR, ONNX Runtime, OpenVINO, Scikit-learn  
-- **LLMs**: OpenAI, Google Gemini, Ollama, LangChain, RAG Systems  
-- **Web & APIs**: FastAPI, Flask, Streamlit, Spring MVC  
-- **Databases**: MySQL, Firebase  
-- **Tools**: Docker, Git, Pydantic, REST APIs  
+## 🧩 Core Domains I Work On
+
+### 👁️ Computer Vision
+- YOLO object detection (gold bars, coins, documents, stamps)
+- RT-DETR real-time detection
+- Signature verification (Siamese networks)
+- ONNX + OpenVINO optimization
+- CPU real-time inference pipelines
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: [Jagadeeshwaran J](https://www.linkedin.com/in/jagadeeshwaran-j-6362042b4)  
-- 📧 Email: **jsjagadeesh2304@gmail.com**  
-- 🏢 Currently at **NCS SoftSolutions (P) Ltd., Chennai**  
+### 🤖 LLM & Document Intelligence
+- OCR → Embeddings → RAG pipelines
+- Text-to-SQL automation engines
+- Graph RAG using Neo4j
+- Multimodal document Q&A
+- Local LLM deployment (Ollama)
 
 ---
 
-⭐ *“Engineering AI solutions that bridge the gap between research and real-world impact.”*
+### ⚙️ AI Backend Engineering
+- FastAPI microservices
+- Streamlit AI dashboards
+- Secure encrypted model loading
+- Dockerized ML systems
+- Structured outputs with Pydantic
+
+---
+
+## 📌 Featured Project Types
+
+| Area | What I Built |
+|-----|------------|
+| 📄 OCR AI | PDF extraction + LLM Q&A |
+| 🪙 Vision AI | Gold detection with YOLO |
+| 🔐 Secure ML | Encrypted model runtime |
+| 🧠 RAG | Vector + Graph RAG systems |
+| 🗄 SQL AI | Natural language → MySQL |
+| 🌐 APIs | FastAPI production stacks |
+
+---
+
+## 🛠 Technology Stack
+
+### Languages
+`Python` `Java` `SQL`
+
+### AI / ML
+`YOLO` `RT-DETR` `ONNX Runtime` `OpenVINO` `Scikit-learn` `Siamese Networks`
+
+### LLM & RAG
+`LangChain` `FAISS` `Graph RAG` `Ollama` `Gemini` `OpenAI`
+
+### Backend
+`FastAPI` `Flask` `Streamlit` `Spring MVC`
+
+### DevOps & Data
+`Docker` `MySQL` `Firebase` `REST APIs`
+
+---
+
+
+## 🧠 Engineering Philosophy
+
+✔ Build production systems
+✔ Optimize before scaling  
+✔ Secure models & pipelines  
+✔ AI must solve real business problems  
+
+---
+
+## 📫 Connect
+
+- 🔗 LinkedIn: [Jagadeeshwaran J](https://www.linkedin.com/in/jagadeeshwaran-j-6362042b4)  
+- 📧 Email: jsjagadeesh2304@gmail.com  
+
+---
+
+⭐ *From vision models to LLM systems — I engineer real-world AI.*
